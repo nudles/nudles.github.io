@@ -1,13 +1,10 @@
 ---
-layout: post
 title: Effective Multi-modal Retrieval based on Stacked Auto-Encoders
-category : code
-tagline:
-tags : [code, structure, singa]
+date: 2015-05-03 15:03:58
+tags: [code]
 ---
-{% include JB/setup %}
 
-### Introduction
+# Introduction
 
 Multi-modal retrieval is emerging as a new search paradigm that enables
 seamless information retrieval from various types of media. For example,
@@ -28,15 +25,15 @@ method is memory efficient with respect to the data volume. Experiments on
 three real datasets illustrate that our proposed method achieves significant
 improvement in search accuracy over the state-of-the-art methods
 
-### Code and Dataset
+# Code and Dataset
 
 Our code is written in Python. Download it [here]({{ BASE_PATH }}/assets/file/msae.tar).
 
 We provide a dataset extracted from NUS-WIDE. Download it [here]({{ BASE_PATH }}/assets/file/nuswide.tar.bz2)
 
-### Training Visualization
+# Training Visualization
 
-  1|2|3|4
-  :---|:---|:---|:---
-  <img src="{{ BASE_PATH }}/assets/image/alpha000.gif"  width="200px"/> | <img src="{{ BASE_PATH }}/assets/image/alpha01.gif" width="200px"/> | <img src="{{ BASE_PATH }}/assets/image/beta001.gif"  width="200px"/> | <img src="{{ BASE_PATH }}/assets/image/beta01.gif"  width="200px"/>
-  alpha=0 epoch 1-30 | alpha=0.01 epoch 1-30 | alpha=0 beta=0.01 epoch 1-60 |alpha=0 beta=0.1 epoch 1-60
+1|2|3|4
+:---|:---|:---|:---
+<img src="{{ BASE_PATH }}/assets/image/alpha000.gif"  width="200px"/> | <img src="{{ BASE_PATH }}/assets/image/alpha01.gif" width="200px"/> | <img src="{{ BASE_PATH }}/assets/image/beta001.gif"  width="200px"/> | <img src="{{ BASE_PATH }}/assets/image/beta01.gif"  width="200px"/>
+alpha=0 epoch 1-30 | alpha=0.01 epoch 1-30 | alpha=0 beta=0.01 epoch 1-60 |alpha=0 beta=0.1 epoch 1-60

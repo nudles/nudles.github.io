@@ -1,11 +1,8 @@
 ---
-layout: post
 title: Format Paper for ACM Publish
-category : skills
-tagline:
-tags : [font, acm]
+date: 2015-08-09 15:04:08
+tags: [font, acm]
 ---
-{% include JB/setup %}
 
 I submitted a paper to ACM for publish two days ago. The editor replied to me
 with some formating errors. ACM has strict rules for font types. In specific,
@@ -17,7 +14,7 @@ from texlive to edit and compile papers. Power Point is used to draw
 flow charts and matplotlib is used to plot experiment figures.
 
 
-### Check font types
+# Check font types
 I found two approaches to check the font types.
 
 On Windows systems, open the paper using Adobe. Go to file properties and the
@@ -33,7 +30,7 @@ On linux system, the command
 will list all fonts used in the paper.
 
 
-### Correct font types in figures
+# Correct font types in figures
 
 The fonts of text are fine with the ACM requirements. But the fonts in the
 figures usually have type 3 or truetype CID. Next I will share some tools (or
@@ -57,7 +54,7 @@ at the beginning of your script,
     matplotlib.rcParams['pdf.use14corefonts']=True
     matplotlib.rcParams['text.usetex']=True
 
-### Embed fonts
+# Embed fonts
 
 ACM requires that all fonts should be embedded. I also found two approaches,
 one for Windows systems and one for linux systems. But the
