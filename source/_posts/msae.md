@@ -2,6 +2,7 @@
 title: Effective Multi-modal Retrieval based on Stacked Auto-Encoders
 date: 2015-05-03 15:03:58
 tags: [code]
+alias: code/index.html
 ---
 
 # Introduction
