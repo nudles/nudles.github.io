@@ -2,7 +2,7 @@ title: "Wei WANG"
 layout: "page"
 comments: false
 ---
-<img src='image/avatar.jpg' class='avatar'/>
+<img src='images/avatar.jpg' class='avatar'/>
 Assistant Professor
 [Computer Science](http://www.comp.nus.edu.sg/about/depts/cs)
 [School of Computing](http://www.comp.nus.edu.sg)
@@ -10,7 +10,7 @@ Assistant Professor
 
 Email: wangwei At comp.nus.edu.sg
 Tel: (65) 6601 3785
-Office: COM2 Building, \#04-09, 15 Computing Drive, 117418
+Office: COM2 Building, \#04-09, 15 Computing Drive, Singapore 117418
 
 ---
 
@@ -20,7 +20,7 @@ I am an Assistant Professor in the Department of Computer Science, National Univ
 
 # Publications
 
-* W. Wang et al: Deep Learning at Scale and At Ease ACM Transactions on Multimedia Computing Communications and Applications, special issue of ACM Multimedia 15 best papers (to appear).
+* W. Wang et al: [Deep Learning at Scale and At Ease](http://delivery.acm.org/10.1145/3000000/2996464/a69-wang.pdf?ip=202.166.19.179&id=2996464&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E15F56E1470BE2D9E&CFID=695246172&CFTOKEN=39222796&__acm__=1479539828_f80e20c334ffcbb5a1e5bba36a6a969c). ACM Transactions on Multimedia Computing Communications and Applications(TOMM) - Special Section on Best Papers of ACM Multimedia 2015, Volume 12 Issue 4s, November 2016.
 
 * W. Wang, M. Zhang, G. Chen, H.V. Jagadish, B. C. Ooi, K.L. Tan: [Database Meets Deep Learning: Challenges and Opportunities](http://www.comp.nus.edu.sg/~ooibc/dbdl.pdf). ACM SIGMOD Record, 2016.
 
@@ -28,9 +28,9 @@ I am an Assistant Professor in the Department of Computer Science, National Univ
 
 * B. C. Ooi, K.-L. Tan, S. Wang, W. Wang, G. Chen, J. Gao, Z. Luo, A.K.H. Tung, Y. Wang, Z. Xie, M. Zhang, K. Zheng: [SINGA: A Distributed Deep Learning Platform](http://www.comp.nus.edu.sg/~ooibc/singaopen-mm15.pdf). ACM Multimedia (Open Source Software Competition) 2015, [project](http://singa.apache.org/).
 
-* W. Wang, X. Yang, B. C. Ooi, D. Zhang, and Y. Zhuang. [Effective Deep Learning Based Multi-Modal Retrieval](http://link.springer.com/article/10.1007/s00778-015-0391-4?wt_mc=email.event.1.SEM.ArticleAuthorOnlineFirst).VLDB Journal - Special issue of VLDB'14 best papers, 2015.
+* W. Wang, X. Yang, B. C. Ooi, D. Zhang, and Y. Zhuang. [Effective Deep Learning Based Multi-Modal Retrieval](http://link.springer.com/article/10.1007/s00778-015-0391-4?wt_mc=email.event.1.SEM.ArticleAuthorOnlineFirst).VLDB Journal - Special issue of VLDB'14 best papers, 2015, [code](https://github.com/nudles/vldbj-code).
 
-* W. Wang, B. C. Ooi, X. Yang, D. Zhang, and Y. Zhuang. [Effective multi-modal retrieval based on stacked autoencoders](http://www.comp.nus.edu.sg/~ooibc/crossmodalvldb14.pdf). In VLDB 2014. Best paper candidate, [project]({{ BASE_PATH }}{% post_url 2015-05-03-msae %}).
+* W. Wang, B. C. Ooi, X. Yang, D. Zhang, and Y. Zhuang. [Effective multi-modal retrieval based on stacked autoencoders](http://www.comp.nus.edu.sg/~ooibc/crossmodalvldb14.pdf). In VLDB 2014. Best paper candidate, [project](/2015/05/03/msae).
 
 * Y. Zhuang, Z. Yu, W. Wang, F. Wu, S. Tang, and J. Shao. Cross-media hashing with neural networks. International Conference on Multimedia (MM) 2014 (short paper).
 
