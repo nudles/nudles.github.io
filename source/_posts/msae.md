@@ -2,7 +2,9 @@
 title: Effective Multi-modal Retrieval based on Stacked Auto-Encoders
 date: 2015-05-03 15:03:58
 tags: [code]
-alias: code/index.html
+alias: 
+  - code/index.html
+  - code/msae/index.html
 ---
 
 # Introduction
@@ -13,15 +15,15 @@ Multi-modal retrieval is emerging as a new search paradigm that enables seamless
 
 Our code is written in Python. Download it [here](https://github.com/nudles/msae)
 
-We provide a dataset extracted from NUS-WIDE. Download it [here](/download/nuswide.tar.bz2)
+We provide a dataset extracted from NUS-WIDE. Download it [here](/~wangwei/download/nuswide.tar.bz2)
 
 # Training Visualization
 
 |alpha=0 epoch 1-30 | alpha=0.01 epoch 1-30 |
 |:---|:---|
-|<img src="/images/alpha000.gif"  width="200px"/> | <img src="/images/alpha01.gif" width="200px"/> |
+|<img src="/~wangwei/images/alpha000.gif"  width="200px"/> | <img src="/~wangwei/images/alpha01.gif" width="200px"/> |
 
 
 | alpha=0 beta=0.01 epoch 1-60 |alpha=0 beta=0.1 epoch 1-60|
 |:---|:---|
-| <img src="/images/beta001.gif"  width="200px"/> | <img src="/images/beta01.gif"  width="200px"/>|
+| <img src="/~wangwei/images/beta001.gif"  width="200px"/> | <img src="/~wangwei/images/beta01.gif"  width="200px"/>|

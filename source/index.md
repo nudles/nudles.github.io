@@ -30,7 +30,7 @@ I am an Assistant Professor in the Department of Computer Science, National Univ
 
 * W. Wang, X. Yang, B. C. Ooi, D. Zhang, and Y. Zhuang. [Effective Deep Learning Based Multi-Modal Retrieval](http://link.springer.com/article/10.1007/s00778-015-0391-4?wt_mc=email.event.1.SEM.ArticleAuthorOnlineFirst).VLDB Journal - Special issue of VLDB'14 best papers, 2015, [code](https://github.com/nudles/vldbj-code).
 
-* W. Wang, B. C. Ooi, X. Yang, D. Zhang, and Y. Zhuang. [Effective multi-modal retrieval based on stacked autoencoders](http://www.comp.nus.edu.sg/~ooibc/crossmodalvldb14.pdf). In VLDB 2014. Best paper candidate, [project](/2015/05/03/msae).
+* W. Wang, B. C. Ooi, X. Yang, D. Zhang, and Y. Zhuang. [Effective multi-modal retrieval based on stacked autoencoders](http://www.comp.nus.edu.sg/~ooibc/crossmodalvldb14.pdf). In VLDB 2014. Best paper candidate, [project](2015/05/03/msae).
 
 * Y. Zhuang, Z. Yu, W. Wang, F. Wu, S. Tang, and J. Shao. Cross-media hashing with neural networks. International Conference on Multimedia (MM) 2014 (short paper).
 

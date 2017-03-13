@@ -13,7 +13,7 @@ timezone: Asia/Singapore
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://www.comp.nus.edu.sg/~wangwei
-root: /
+root: /~wangwei/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -68,4 +68,8 @@ theme: icarus
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: ftpsync
+  host: suna.comp.nus.edu.sg
+  user: wangwei
+  pass: ww_Com1%
+  remote: /home/w/wangwei/public_html
