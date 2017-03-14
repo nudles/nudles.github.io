@@ -28,11 +28,12 @@ The fonts of text are fine with the ACM requirements. But the fonts in the figur
 
 For the figures generated from Power Point, the type 3 or truetype CID fonts often come from formulas. Instead of using the built-in formula editor, I found a free plug-in to add formulas in slides, called [IguanaTex](http://www.jonathanleroux.org/software/iguanatex/download.html). It is easy to install---just download and open with Power Point. Formulas are added as in a latex editor.
 
-<img src="/images/iguanatex.png" width="400px"/>
+{% asset_img iguanatex.png %}
 
 For the figures generated from matplotlib, the following code should be set at the beginning of your script,
 
 ```python
+<img src="guanatex.png" width="400px"/>
 # tell matplotlib to use type 1 fonts
 matplotlib.rcParams['ps.useafm']=True
 matplotlib.rcParams['pdf.use14corefonts']=True
