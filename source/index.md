@@ -18,6 +18,20 @@ I am an Assistant Professor in the Department of Computer Science, National Univ
 
 ---
 
+# Research Opportunities
+
+
+**For PhD students**: I am looking for PhD students to collaborate on deep learning related research problems, including deep learning systems and applications.
+
+**For research assistants**: I am looking for a research assistant on the project "Towards efficient training and inference of deep learning models". The position is available immediately but the start date is flexible.
+
+**For NUS undergraduates**: I welcome NUS undergraduates to do final-year thesis projects (FYP) with me. Here is the [list]() of previous FYP students and topics.
+
+
+Please send me an email with your CV and transcripts to apply.
+
+---
+
 # Publications
 
 * W. Wang et al: [Deep Learning at Scale and At Ease](http://delivery.acm.org/10.1145/3000000/2996464/a69-wang.pdf?ip=202.166.19.179&id=2996464&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E15F56E1470BE2D9E&CFID=695246172&CFTOKEN=39222796&__acm__=1479539828_f80e20c334ffcbb5a1e5bba36a6a969c). ACM Transactions on Multimedia Computing Communications and Applications(TOMM) - Special Section on Best Papers of ACM Multimedia 2015, Volume 12 Issue 4s, November 2016.
