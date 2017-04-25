@@ -14,4 +14,4 @@ addons:
   ssh_known_hosts: suna.comp.nus.edu.sg:22
 
 script:
-- hexo generate && rsync -az -vv --delete public/ wangwei@suna.comp.nus.edu.sg:/home/w/wangwei/public_html
+- hexo generate && rsync -az -vv --delete -e "ssh -p 22" public/ wangwei@suna.comp.nus.edu.sg:/home/w/wangwei/public_html
