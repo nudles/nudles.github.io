@@ -13,6 +13,5 @@ before_install:
 addons:
   ssh_known_hosts: suna.comp.nus.edu.sg:22
 
-install:
-- hexo generate
-- hexo deploy
+script:
+- hexo generate && rsync -az -vv --delete -e public/ wangwei@suna.comp.nus.edu.sg:/home/w/wangwei/public_html
