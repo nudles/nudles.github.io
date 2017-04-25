@@ -5,13 +5,15 @@ branches:
   - master
 
 before_install:
-- openssl aes-256-cbc -K $encrypted_94d6c4c1e025_key -iv $encrypted_94d6c4c1e025_iv -in travis.enc -out ~/.ssh/id_rsa -d
-- chmod 600 ~/.ssh/id_rsa
+- openssl aes-256-cbc -K $encrypted_94d6c4c1e025_key -iv $encrypted_94d6c4c1e025_iv -in travis.enc -out ~/tmp/deploy_rsa -d
+- eval "$(ssh-agent -s)"
+- chmod 600 /tmp/deploy_rsa
+- ssh-add /tmp/deploy_rsa
 - npm install -g hexo
 - npm install
 
 addons:
-  ssh_known_hosts: suna.comp.nus.edu.sg:22
+  ssh_known_hosts: suna.comp.nus.edu.sg
 
 script:
 - hexo generate && hexo deploy
