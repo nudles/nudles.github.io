@@ -68,9 +68,8 @@ theme: icarus
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: ftpsync
+  type: rsync
   host: suna.comp.nus.edu.sg
   user: wangwei
-  pass: ww_Com1%
-  remote: /home/w/wangwei/public_html
+  root: /home/w/wangwei/public_html
 
