@@ -26,7 +26,7 @@ the following research areas:
 
 # Job requirements:
 
-* A Bachelor’s degree with Honours or above (Master degree preferred) in a relevant area;
+* A Bachelor's degree with Honours or above (Master degree preferred) in a relevant area;
 * Experience in research/development of deep learning models and distributed systems
 * Strong C++ and Python programming skills
 
