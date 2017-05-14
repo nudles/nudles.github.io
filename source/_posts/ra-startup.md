@@ -7,7 +7,7 @@ tags: [job]
 # Description:
 
 The National University of Singapore invites applications for the position of Research
-Assistant/Fellow in the Department of Computer Science, School of Computing (SoC). SoC is strongly
+Assistant in the Department of Computer Science, School of Computing (SoC). SoC is strongly
 committed to research excellence in all its dimensions: Searching for fundamental results and
 insights, developing novel computational solutions to a wide range of applications, building large-
 scale experimental systems and improving the well being of society. We seek to play an active role
