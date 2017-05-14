@@ -23,7 +23,7 @@ I am an Assistant Professor in the Department of Computer Science, National Univ
 
 **For PhD students**: I am looking for PhD students to collaborate on deep learning related research problems, including deep learning systems and applications.
 
-**For research assistants**: I am looking for a [research assistant](https://www.jobsbank.gov.sg/ICMSPortal/portlets/JobBankHandler/SearchDetail.do?id=JOB-2017-0077423) on the project "Towards efficient training and inference of deep learning models". The position is available immediately but the start date is flexible.
+**For research assistants**: I am looking for a [research assistant](2017/05/14/ra-startup) on the project "Towards efficient training and inference of deep learning models". The position is available immediately but the start date is flexible.
 
 **For NUS undergraduates**: I welcome NUS undergraduates to do final-year thesis projects (FYP) with me.
 
