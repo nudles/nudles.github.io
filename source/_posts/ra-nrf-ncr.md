@@ -1,6 +1,6 @@
 ---
-title: Open Position for Full-time Research Assistant (closed)
-date: 2017-05-14 12:00:00
+title: Open Position for Full-time Research Assistant
+date: 2017-07-24 17:26:00
 tags: [job]
 ---
 
@@ -15,19 +15,12 @@ both internationally and locally in the core and emerging areas of Computer Scie
 Systems.
 
 The Research Assistant will be responsible for working closely with the Principal Investigator and lab
-members on one or more projects. One research topic is on optimizing the memory and speed of
-the training and inference of large deep learning models. Approaches from the system and theory
-perspectives would be investigated. He/she should possess experience or interest in at least one of
-the following research areas:
-
-* Artificial Intelligence (especially deep learning)
-* Database (on memory and efficiency optimization)
-* Distributed systems/cloud computing
+members on one or more projects. One research topic is about **machine learning based malware detection**.
 
 # Job requirements:
 
 * A Bachelor's degree with Honours or above (Master degree preferred) in a relevant area;
-* Experience in research/development of deep learning models and distributed systems
+* Experience in research/development of machine learning or deep learning models, and computer security
 * Strong C++ and Python programming skills
 
 Interested applicants should email a CV (and project links, e.g. github repo) to wangwei@comp.nus.edu.sg.

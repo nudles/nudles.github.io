@@ -23,7 +23,9 @@ I am an Assistant Professor in the Department of Computer Science, National Univ
 
 **For PhD students**: I am looking for PhD students to collaborate on deep learning related research problems, including deep learning systems and applications.
 
-**For research assistants**: I am looking for a [research assistant](2017/05/14/ra-startup) on the project "Towards efficient training and inference of deep learning models". The position is available immediately but the start date is flexible.
+**For research assistants**: I am looking for [research assistants](2017/07/24/ra-nrf-ncr). The positions are available from September.
+
+**For research fellows**: I am looking for a [research fellow](2017/07/24/rf-startup). The position is available immediately but the start date is flexible.
 
 **For NUS undergraduates**: I welcome NUS undergraduates to do final-year thesis projects (FYP) with me.
 
@@ -32,7 +34,15 @@ Please send me an email with your CV and transcripts to apply.
 
 ---
 
+# Recent News
+
+* I gave a valedictorian speech at the [commencement ceremony of School of Computing, NUS](https://www.youtube.com/watch?v=ohHdtSX40xM&feature=youtu.be).
+* Our paper on cross-domain image retrieval is accepted by [ACM Multimedia 2017](http://www.acmmm.org/2017/).
+* I won [NUS Computing's Doctoral Dissertation Award 2017](http://www.comp.nus.edu.sg/news/2079-2017dda/).
+
 # Publications
+
+* X. Ji, W. Wang, M. Zhang, Y. Yang: Cross-Domain Image Retrieval with Attention Modeling. ACM Multimedia 2017 (accepted).
 
 * W. Wang et al: [Deep Learning at Scale and At Ease](http://delivery.acm.org/10.1145/3000000/2996464/a69-wang.pdf?ip=202.166.19.179&id=2996464&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E15F56E1470BE2D9E&CFID=695246172&CFTOKEN=39222796&__acm__=1479539828_f80e20c334ffcbb5a1e5bba36a6a969c). ACM Transactions on Multimedia Computing Communications and Applications(TOMM) - Special Section on Best Papers of ACM Multimedia 2015, Volume 12 Issue 4s, November 2016.
 
