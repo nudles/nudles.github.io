@@ -36,9 +36,9 @@ Please send me an email with your CV and transcripts to apply.
 
 # Recent News
 
-* I gave a valedictorian speech at the [commencement ceremony of School of Computing, NUS](https://www.youtube.com/watch?v=ohHdtSX40xM&feature=youtu.be).
-* Our paper on cross-domain image retrieval is accepted by [ACM Multimedia 2017](http://www.acmmm.org/2017/).
-* I won [NUS Computing's Doctoral Dissertation Award 2017](http://www.comp.nus.edu.sg/news/2079-2017dda/).
+* 2017-07-06 I delivered a valedictory speech at the [commencement ceremony of School of Computing, NUS](https://www.youtube.com/watch?v=ohHdtSX40xM&feature=youtu.be).
+* 2017-07-02 Our paper on cross-domain image retrieval is accepted by [ACM Multimedia 2017](http://www.acmmm.org/2017/).
+* 2017-06-16 I received [NUS Computing's Doctoral Dissertation Award 2017](http://www.comp.nus.edu.sg/news/2079-2017dda/).
 
 # Publications
 
