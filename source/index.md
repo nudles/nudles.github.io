@@ -36,11 +36,14 @@ Please send me an email with your CV and transcripts to apply.
 
 # Recent News
 
+* 2017-08-07 Our paper on Disease Progression Modeling is accepted by [CIKM 2017](http://cikm2017.org/).
 * 2017-07-06 I delivered a valedictory speech at the [commencement ceremony of School of Computing, NUS](https://www.youtube.com/watch?v=ohHdtSX40xM&feature=youtu.be).
 * 2017-07-02 Our paper on cross-domain image retrieval is accepted by [ACM Multimedia 2017](http://www.acmmm.org/2017/).
 * 2017-06-16 I received [NUS Computing's Doctoral Dissertation Award 2017](http://www.comp.nus.edu.sg/news/2079-2017dda/).
 
 # Publications
+
+* K. Zheng, W. Wang, J. Gao, K.Y. Ngiam, B.C. Ooi and W.L.J. Yip: Capturing Feature-Level Irregularity in Disease Progression Modeling. CIKM 2017 (accepted).
 
 * X. Ji, W. Wang, M. Zhang, Y. Yang: Cross-Domain Image Retrieval with Attention Modeling. ACM Multimedia 2017 (accepted).
 
