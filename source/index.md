@@ -43,9 +43,9 @@ Please send me an email with your CV and transcripts to apply.
 
 # Publications
 
-* K. Zheng, W. Wang, J. Gao, K.Y. Ngiam, B.C. Ooi and W.L.J. Yip: Capturing Feature-Level Irregularity in Disease Progression Modeling. CIKM 2017 (accepted).
+* K. Zheng, W. Wang, J. Gao, K.Y. Ngiam, B.C. Ooi and W.L.J. Yip: Capturing Feature-Level Irregularity in Disease Progression Modeling. CIKM 2017.
 
-* X. Ji, W. Wang, M. Zhang, Y. Yang: Cross-Domain Image Retrieval with Attention Modeling. ACM Multimedia 2017 (accepted).
+* X. Ji, W. Wang, M. Zhang, Y. Yang: [Cross-Domain Image Retrieval with Attention Modeling](https://arxiv.org/abs/1709.01784). ACM Multimedia 2017.
 
 * W. Wang et al: [Deep Learning at Scale and At Ease](http://delivery.acm.org/10.1145/3000000/2996464/a69-wang.pdf?ip=202.166.19.179&id=2996464&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E15F56E1470BE2D9E&CFID=695246172&CFTOKEN=39222796&__acm__=1479539828_f80e20c334ffcbb5a1e5bba36a6a969c). ACM Transactions on Multimedia Computing Communications and Applications(TOMM) - Special Section on Best Papers of ACM Multimedia 2015, Volume 12 Issue 4s, November 2016.
 
