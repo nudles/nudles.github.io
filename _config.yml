@@ -72,4 +72,5 @@ deploy:
   host: suna.comp.nus.edu.sg
   user: wangwei
   root: /home/w/wangwei/public_html
+  delete: false
 

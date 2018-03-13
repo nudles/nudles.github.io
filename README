@@ -1,0 +1,29 @@
+# Homepage source code
+
+## Set up
+
+1. Install npm and hexo following [hexo doc](https://hexo.io/docs/)
+2. git clone this repo
+3. install packages
+
+    npm install hexo -g
+    npm install
+    npm remove hexo-generator-index
+
+
+## Build
+
+    hexo generate
+
+
+## Deploy to sunfire
+
+    hexo deploy
+
+Need to type in the ssh login password.
+
+NOTE: Travis is not set up correctly.
+    
+
+
+

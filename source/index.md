@@ -23,12 +23,7 @@ I am an Assistant Professor in the Department of Computer Science, National Univ
 
 **For PhD students**: I am looking for PhD students to collaborate on deep learning related research problems, including deep learning systems and applications.
 
-**For research assistants**: I am looking for [research assistants](2017/07/24/ra-nrf-ncr). The positions are available from September.
-
 **For research fellows**: I am looking for a [research fellow](2017/07/24/rf-startup). The position is available immediately but the start date is flexible.
-
-**For NUS undergraduates**: I welcome NUS undergraduates to do final-year thesis projects (FYP) with me.
-
 
 Please send me an email with your CV and transcripts to apply.
 
@@ -43,7 +38,7 @@ Please send me an email with your CV and transcripts to apply.
 
 # Publications
 
-* K. Zheng, W. Wang, J. Gao, K.Y. Ngiam, B.C. Ooi and W.L.J. Yip: Capturing Feature-Level Irregularity in Disease Progression Modeling. CIKM 2017.
+* K. Zheng, W. Wang, J. Gao, K.Y. Ngiam, B.C. Ooi and W.L.J. Yip: [Capturing Feature-Level Irregularity in Disease Progression Modeling](http://www.comp.nus.edu.sg/~kaiping/2017-11-9-KaipingZheng-cikm.pdf). CIKM 2017.
 
 * X. Ji, W. Wang, M. Zhang, Y. Yang: [Cross-Domain Image Retrieval with Attention Modeling](https://arxiv.org/abs/1709.01784). ACM Multimedia 2017.
 
@@ -75,5 +70,6 @@ Please send me an email with your CV and transcripts to apply.
 # Professional Activities
 
 * Program Committee member of VLDB 2018
+* Program Committee member of ICDE 2018
 * Program Committee member of DASFFA 2017
 * Program Committee member of ACM Multimedia 2015
