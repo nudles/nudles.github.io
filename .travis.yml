@@ -15,6 +15,9 @@ before_install:
 - npm install -g hexo
 - npm install
 
+install:
+- git checkout master
+
 addons:
   ssh_known_hosts: suna.comp.nus.edu.sg
 
