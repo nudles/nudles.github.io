@@ -3,13 +3,16 @@
 ## Set up
 
 1. Install npm and hexo following [hexo doc](https://hexo.io/docs/)
-2. git clone this repo
+2. git clone this repo and the submodules
+      git clone
+      git submodule update --init --recursive
+      
 3. install packages
 
     npm install hexo -g
     npm install
     npm remove hexo-generator-index
-
+    npm install hexo-deployer-rsync --save
 
 ## Build
 
@@ -23,7 +26,3 @@
 Need to type in the ssh login password.
 
 NOTE: Travis is not set up correctly.
-    
-
-
-
