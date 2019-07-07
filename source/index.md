@@ -21,7 +21,7 @@ I am an Assistant Professor in the Department of Computer Science, National Univ
 
 # Recent News
 
-* July, 2019. I will teach two modules in next semester: Knowledge CS5228-Discovery and Data Mining, and CS5224-Neural Networks and Deep Learning.
+* July, 2019. I will teach two modules in next semester:  CS5228-Knowledge Discovery and Data Mining, and CS5224-Neural Networks and Deep Learning.
 * April, 2019. A paper on distributed n-gram language model is accepted to [VLDB 2019](https://vldb.org/2019/?papers-industrial).
 * Sep, 2018. ScatterNet paper is accepted to IEEE Trans. Vis. Comput. Graph.
 * Sep, 2018. Rafiki paper is accepted to [VLDB 2019](https://vldb.org/2019/?program-schedule-technical).

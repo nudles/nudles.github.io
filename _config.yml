@@ -73,3 +73,12 @@ deploy:
   user: wangwei
   root: /home/w/wangwei/public_html
   delete: false
+
+
+#deploy:
+#  type: sftp
+#  host: suna.comp.nus.edu.sg
+#  user: wangwei
+#  remotePath: /home/w/wangwei/public_html
+#  port: 22
+#  privateKey: /tmp/deploy_rsa

@@ -4,7 +4,7 @@ dist: xenial
 language: node_js
 
 git:
-  submodules: false
+  submodules: flase
 
 branches:
   only:
@@ -17,6 +17,9 @@ before_install:
 - ssh-add /tmp/deploy_rsa
 - npm install -g hexo
 - npm install
+- npm remove hexo-generator-index
+# - npm install hexo-deployer-rsync --save
+- npm install hexo-deployer-sftp --save
 
 install:
 - git checkout master
