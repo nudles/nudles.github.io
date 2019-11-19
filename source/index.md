@@ -14,21 +14,32 @@ Office: COM2 Building, \#04-09, 15 Computing Drive, Singapore 117418
 
 ---
 
-I am an Assistant Professor in the Department of Computer Science, National University of Singapore (NUS). I got my B.S. from Renmin University of China in 2011 and PhD from NUS in 2017. My research interests include machine learning systems and applications for multimedia data. I am currently working on automated machine learning systems, and machine learning for malware detection.
+I am an Assistant Professor in the Department of Computer Science, National University of Singapore (NUS). I got my B.S. from Renmin University of China in 2011 and PhD from NUS in 2017. My research interests include machine learning system optimizations and multimedia applications. I am currently working on automated machine learning systems, and machine learning for malware detection.
 
 ---
 
 
 # Recent News
 
+* Nov, 2019. Three papers are accepted to [AAAI 2020](https://aaai.org/Conferences/AAAI-20/).
 * July, 2019. I will teach two modules in next semester:  CS5228-Knowledge Discovery and Data Mining, and CS5224-Neural Networks and Deep Learning.
 * April, 2019. A paper on distributed n-gram language model is accepted to [VLDB 2019](https://vldb.org/2019/?papers-industrial).
-* Sep, 2018. ScatterNet paper is accepted to IEEE Trans. Vis. Comput. Graph.
-* Sep, 2018. Rafiki paper is accepted to [VLDB 2019](https://vldb.org/2019/?program-schedule-technical).
 
 
 # Publications
-* [A Distributed System for Large-scale n-gram Language Models at Tencent]().
+* [Dynamic Malware Analysis with Feature Engineering and Feature Learning](https://arxiv.org/abs/1907.07352).
+  Zhaoqi Zhang, Panpan Qi, Wei Wang, Chang Yao. AAAI 2020. (Accepted)
+
+* [One-Shot Image Classification by Learning to Restore Prototypes]().
+  Wanqi Xue, Wei Wang. AAAI 2020. (Accepted)
+
+* [RTN: Reparameterized Ternary Network]().
+  Yuhang Li, Xin Dong, Sai Zhang, Haoli Bai, Yuanpeng Chen, Wei Wang. AAAI 2020. (Accepted)
+
+* [Deploying Hash Tables on Die-Stacked High Bandwidth Memory](https://dl.acm.org/citation.cfm?id=3358015).
+  Xuntao Cheng, Bingsheng He, Eric Lo, Wei Wang, Shengliang Lu and Xinyu Chen. CIKM 2019.
+
+* [A Distributed System for Large-scale n-gram Language Models at Tencent](http://www.vldb.org/pvldb/vol12/p2206-long.pdf).
   Qiang Long, Wei Wang, Jinfu Deng, Song Liu, Wenhao Huang, Fangying Chen, and Sifan Liu. VLDB 2019.
 
 * [ISBNet: Instance-aware Selective Branching Network](https://arxiv.org/abs/1905.04849).
@@ -37,7 +48,7 @@ I am an Assistant Professor in the Department of Computer Science, National Univ
 * [Effective and Efficient Dropout for Deep Convolutional Neural Networks](https://arxiv.org/abs/1904.03392).
   Shaofeng Cai, Jinyang Gao, Meihui Zhang, Wei Wang, Gang Chen, Beng Chin Ooi. 2019.
 
-* [Rafiki: Machine Learning as an Analytics Service System](www.vldb.org/pvldb/vol12/p128-wang.pdf).
+* [Rafiki: Machine Learning as an Analytics Service System](http://www.vldb.org/pvldb/vol12/p128-wang.pdf).
   Wei Wang, Sheng Wang, Jinyang Gao, Meihui Zhang, Gang Chen, Teck Khim Ng, Beng Chin Ooi, and Jie Shao. VLDB 2019.
 
 * [Efficient Memory Management for GPU-based Deep Learning Systems](https://arxiv.org/abs/1903.06631).
@@ -86,7 +97,10 @@ I am an Assistant Professor in the Department of Computer Science, National Univ
 ---
 
 # Professional Activities
-* Reviewer of [ACM Transactions on Data Science](https://tds.acm.org/)
+* Reviewer of TKDE, Neurocomputing and Neurocomputing.
+* Area Chair of ICDCS 2020
+* Program Committee member of ICDE 2020
+* Program Committee member of DASFFA 2020
 * Program Committee member of DASFFA 2019
 * Program Committee member of ACM Multimedia 2019
 * Program Committee member of VLDB 2018
