@@ -21,9 +21,9 @@ I am an Assistant Professor in the Department of Computer Science, National Univ
 
 # Recent News
 
+* Nov, 2019. I attended [CNA938 TechTalk](https://www.channelnewsasia.com/news/cna938) for a live radio interview about Apache SINGA and the applications.
 * Nov, 2019. Three papers are accepted to [AAAI 2020](https://aaai.org/Conferences/AAAI-20/).
-* July, 2019. I will teach two modules in next semester:  CS5228-Knowledge Discovery and Data Mining, and CS5224-Neural Networks and Deep Learning.
-* April, 2019. A paper on distributed n-gram language model is accepted to [VLDB 2019](https://vldb.org/2019/?papers-industrial).
+* Oct, 2019. Apache SINGA has become a Top-Level project under Apache Software Foundation. Media reports: [Strait Times](https://www.straitstimes.com/tech/nus-teams-ai-system-first-from-southeast-asia-to-enter-ranks-of-worlds-top-open-source-software), [ASF Blog](https://blogs.apache.org/foundation/entry/the-apache-software-foundation-announces57) and [others](https://cms.comp.nus.edu.sg/news/news-media/3176-2019-asf-singa). 
 
 
 # Publications
@@ -35,6 +35,9 @@ I am an Assistant Professor in the Department of Computer Science, National Univ
 
 * [RTN: Reparameterized Ternary Network]().
   Yuhang Li, Xin Dong, Sai Zhang, Haoli Bai, Yuanpeng Chen, Wei Wang. AAAI 2020. (Accepted)
+
+* [5G: Agent for Further Digital Disruptive Transformations](http://sites.computer.org/debull/A19sept/p9.pdf).
+  Beng Chin Ooi, Gang Chen, Dumitrel Loghin, Wei Wang, Meihui Zhang. IEEE Bulletin of the Technical Committee on Data Engineering, 43(3), 9-12, September 2019. 
 
 * [Deploying Hash Tables on Die-Stacked High Bandwidth Memory](https://dl.acm.org/citation.cfm?id=3358015).
   Xuntao Cheng, Bingsheng He, Eric Lo, Wei Wang, Shengliang Lu and Xinyu Chen. CIKM 2019.
@@ -97,7 +100,7 @@ I am an Assistant Professor in the Department of Computer Science, National Univ
 ---
 
 # Professional Activities
-* Reviewer of TKDE, Neurocomputing and Neurocomputing.
+* Reviewer of TKDE, Neurocomputing and ACM Transactions on Data Science.
 * Area Chair of ICDCS 2020
 * Program Committee member of ICDE 2020
 * Program Committee member of DASFFA 2020
