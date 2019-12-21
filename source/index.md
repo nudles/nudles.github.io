@@ -21,12 +21,19 @@ I am an Assistant Professor in the Department of Computer Science, National Univ
 
 # Recent News
 
+* Dec, 2019. Two papers are accepted to [ICLR 2020](https://iclr.cc/Conferences/2020).
 * Nov, 2019. I attended [CNA938 TechTalk](https://www.channelnewsasia.com/news/cna938) for a live radio interview about Apache SINGA and the applications.
 * Nov, 2019. Three papers are accepted to [AAAI 2020](https://aaai.org/Conferences/AAAI-20/).
 * Oct, 2019. Apache SINGA has become a Top-Level project under Apache Software Foundation. Media reports: [Strait Times](https://www.straitstimes.com/tech/nus-teams-ai-system-first-from-southeast-asia-to-enter-ranks-of-worlds-top-open-source-software), [ASF Blog](https://blogs.apache.org/foundation/entry/the-apache-software-foundation-announces57) and [others](https://cms.comp.nus.edu.sg/news/news-media/3176-2019-asf-singa). 
 
 
 # Publications
+* [Understanding Architectures Learnt by Cell-based Neural Architecture Search](https://openreview.net/forum?id=BJxH22EKPS).
+  Yao Shu, Wei Wang, Shaofeng Cai. ICLR 2020. (Accepted)
+
+* [Additive Powers-of-Two Quantization: A Non-uniform Discretization for Neural Networks](https://openreview.net/forum?id=BkgXT24tDS).
+  Yuhang Li, Xin Dong, Wei Wang. ICLR 2020. (Accepted)
+
 * [Dynamic Malware Analysis with Feature Engineering and Feature Learning](https://arxiv.org/abs/1907.07352).
   Zhaoqi Zhang, Panpan Qi, Wei Wang, Chang Yao. AAAI 2020. (Accepted)
 
