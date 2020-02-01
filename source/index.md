@@ -21,6 +21,8 @@ I am an Assistant Professor in the Department of Computer Science, National Univ
 
 # Recent News
 
+* Jan, 2020. A survey paper on 5G is accepted by TKDE.
+* Jan, 2020. Our SIGMOD Record paper (2016) has been updated to the [third version](https://arxiv.org/abs/1906.08986) with many recent papers cited.
 * Dec, 2019. Two papers are accepted to [ICLR 2020](https://iclr.cc/Conferences/2020).
 * Nov, 2019. I attended [CNA938 TechTalk](https://www.channelnewsasia.com/news/cna938) for a live radio interview about Apache SINGA and the applications.
 * Nov, 2019. Three papers are accepted to [AAAI 2020](https://aaai.org/Conferences/AAAI-20/).
@@ -28,20 +30,23 @@ I am an Assistant Professor in the Department of Computer Science, National Univ
 
 
 # Publications
+* [The Disruptions of 5G on Data-driven Technologies and Applications](https://ieeexplore.ieee.org/document/8961984).
+  Dumitrel Loghin, Shaofeng Cai, Gang Chen, Anh Dinh, Feiyi Fan, Qian Lin, Janice Ng, Beng Chin Ooi, Xutao Sun, Quang-Trung Ta, Wei Wang, Xiaokui Xiao, Yang Yang, Meihui Zhang, Zhonghua Zhang. TKDE 2020.
+
 * [Understanding Architectures Learnt by Cell-based Neural Architecture Search](https://openreview.net/forum?id=BJxH22EKPS).
-  Yao Shu, Wei Wang, Shaofeng Cai. ICLR 2020. (Accepted)
+  Yao Shu, Wei Wang, Shaofeng Cai. ICLR 2020. (Accepted) [Code](https://github.com/shuyao95/Understanding-NAS)
 
 * [Additive Powers-of-Two Quantization: A Non-uniform Discretization for Neural Networks](https://openreview.net/forum?id=BkgXT24tDS).
-  Yuhang Li, Xin Dong, Wei Wang. ICLR 2020. (Accepted)
+  Yuhang Li, Xin Dong, Wei Wang. ICLR 2020. (Accepted) [Code](https://github.com/yhhhli/APoT_Quantization)
 
 * [Dynamic Malware Analysis with Feature Engineering and Feature Learning](https://arxiv.org/abs/1907.07352).
-  Zhaoqi Zhang, Panpan Qi, Wei Wang, Chang Yao. AAAI 2020. (Accepted)
+  Zhaoqi Zhang, Panpan Qi, Wei Wang, Chang Yao. AAAI 2020.
 
 * [One-Shot Image Classification by Learning to Restore Prototypes]().
-  Wanqi Xue, Wei Wang. AAAI 2020. (Accepted)
+  Wanqi Xue, Wei Wang. AAAI 2020.
 
 * [RTN: Reparameterized Ternary Network]().
-  Yuhang Li, Xin Dong, Sai Zhang, Haoli Bai, Yuanpeng Chen, Wei Wang. AAAI 2020. (Accepted)
+  Yuhang Li, Xin Dong, Sai Zhang, Haoli Bai, Yuanpeng Chen, Wei Wang. AAAI 2020.
 
 * [5G: Agent for Further Digital Disruptive Transformations](http://sites.computer.org/debull/A19sept/p9.pdf).
   Beng Chin Ooi, Gang Chen, Dumitrel Loghin, Wei Wang, Meihui Zhang. IEEE Bulletin of the Technical Committee on Data Engineering, 43(3), 9-12, September 2019. 
