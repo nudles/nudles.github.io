@@ -21,6 +21,7 @@ I am an Assistant Professor in the Department of Computer Science, National Univ
 
 # Recent News
 
+* Mar, 2020. A paper on accurate and interpretable time-series analytics is accepted by SIGMOD 2020.
 * Jan, 2020. A survey paper on 5G is accepted by TKDE.
 * Jan, 2020. Our SIGMOD Record paper (2016) has been updated to the [third version](https://arxiv.org/abs/1906.08986) with many recent papers cited.
 * Dec, 2019. Two papers are accepted to [ICLR 2020](https://iclr.cc/Conferences/2020).
@@ -29,24 +30,34 @@ I am an Assistant Professor in the Department of Computer Science, National Univ
 * Oct, 2019. Apache SINGA has become a Top-Level project under Apache Software Foundation. Media reports: [Strait Times](https://www.straitstimes.com/tech/nus-teams-ai-system-first-from-southeast-asia-to-enter-ranks-of-worlds-top-open-source-software), [ASF Blog](https://blogs.apache.org/foundation/entry/the-apache-software-foundation-announces57) and [others](https://cms.comp.nus.edu.sg/news/news-media/3176-2019-asf-singa). 
 
 
-# Publications
+# Papers
+
+* [TRACER: A Framework for Facilitating Accurate and Interpretable Analytics for High Stakes Applications](https://arxiv.org/abs/2003.12012).
+  Kaiping Zheng, Shaofeng Cai, Horng Ruey Chua, Wei Wang, Kee Yuan Ngiam, Beng Chin Ooi. SIGMOD 2020.
+
+* [Efficient Bitwidth Search for Practical Mixed Precision Neural Network](https://arxiv.org/abs/2003.07577).
+  Yuhang Li, Wei Wang, Haoli Bai, Ruihao Gong, Xin Dong, Fengwei Yu. 2020.
+
 * [The Disruptions of 5G on Data-driven Technologies and Applications](https://ieeexplore.ieee.org/document/8961984).
   Dumitrel Loghin, Shaofeng Cai, Gang Chen, Anh Dinh, Feiyi Fan, Qian Lin, Janice Ng, Beng Chin Ooi, Xutao Sun, Quang-Trung Ta, Wei Wang, Xiaokui Xiao, Yang Yang, Meihui Zhang, Zhonghua Zhang. TKDE 2020.
 
 * [Understanding Architectures Learnt by Cell-based Neural Architecture Search](https://openreview.net/forum?id=BJxH22EKPS).
-  Yao Shu, Wei Wang, Shaofeng Cai. ICLR 2020. (Accepted) [Code](https://github.com/shuyao95/Understanding-NAS)
+  Yao Shu, Wei Wang, Shaofeng Cai. ICLR 2020. [Code](https://github.com/shuyao95/Understanding-NAS)
 
 * [Additive Powers-of-Two Quantization: A Non-uniform Discretization for Neural Networks](https://openreview.net/forum?id=BkgXT24tDS).
-  Yuhang Li, Xin Dong, Wei Wang. ICLR 2020. (Accepted) [Code](https://github.com/yhhhli/APoT_Quantization)
+  Yuhang Li, Xin Dong, Wei Wang. ICLR 2020. [Code](https://github.com/yhhhli/APoT_Quantization)
 
 * [Dynamic Malware Analysis with Feature Engineering and Feature Learning](https://arxiv.org/abs/1907.07352).
   Zhaoqi Zhang, Panpan Qi, Wei Wang, Chang Yao. AAAI 2020.
 
-* [One-Shot Image Classification by Learning to Restore Prototypes]().
+* [One-Shot Image Classification by Learning to Restore Prototypes](https://arxiv.org/abs/2005.01234).
   Wanqi Xue, Wei Wang. AAAI 2020.
 
-* [RTN: Reparameterized Ternary Network]().
+* [RTN: Reparameterized Ternary Network](https://arxiv.org/abs/1912.02057).
   Yuhang Li, Xin Dong, Sai Zhang, Haoli Bai, Yuanpeng Chen, Wei Wang. AAAI 2020.
+
+* [Convolutional Neural Networks for Food Image Recognition: An Experimental Study](https://dl.acm.org/doi/pdf/10.1145/3347448.3357168).
+  Yi Sen Ng, Wanqi Xue, Wei Wang, Panpan Qi. International Workshop on Multimedia Assisted Dietary Management, 2019.
 
 * [5G: Agent for Further Digital Disruptive Transformations](http://sites.computer.org/debull/A19sept/p9.pdf).
   Beng Chin Ooi, Gang Chen, Dumitrel Loghin, Wei Wang, Meihui Zhang. IEEE Bulletin of the Technical Committee on Data Engineering, 43(3), 9-12, September 2019. 
@@ -105,16 +116,16 @@ I am an Assistant Professor in the Department of Computer Science, National Univ
 ---
 
 # Projects
-* [Rafiki](https://github.com/nginyc/rafiki). AutoML system with optimization on hyper-parameter tuning and model inference.
-* [Singa](http://singa.apache.org). Apache incubator project for developing a distributed deep learning system.
+* [SINGA-Auto](https://github.com/nusdbsystem/singa-auto). AutoML system with optimization on hyper-parameter tuning and model inference.
+* [Apache SINGA](http://singa.apache.org). Apache open-source project for developing a distributed deep learning system.
 * [Foodlg](http://www.foodlg.com/). A health tracking and analysis App based on deep learning.
 
 ---
 
 # Professional Activities
-* Reviewer of TKDE, Neurocomputing and ACM Transactions on Data Science.
+* Vice President of Apache Software Foundation; Chair of Apache SINGA project.
+* Reviewer of TKDE, Neurocomputing, IEEE Transactions on Multimedia and ACM Transactions on Data Science.
 * Area Chair of ICDCS 2020
-* Program Committee member of ICDE 2020
 * Program Committee member of DASFFA 2020
 * Program Committee member of DASFFA 2019
 * Program Committee member of ACM Multimedia 2019
