@@ -14,23 +14,24 @@ Office: COM2 Building, \#04-09, 15 Computing Drive, Singapore 117418
 
 ---
 
-I am an Assistant Professor in the Department of Computer Science, National University of Singapore (NUS). I got my B.S. from Renmin University of China in 2011 and PhD from NUS in 2017. My research interests include machine learning system optimizations and multimedia applications. I am currently working on automated machine learning systems, and machine learning for malware detection.
+I am an Assistant Professor in the Department of Computer Science, National University of Singapore (NUS). I got my B.S. from Renmin University of China in 2011 and PhD from NUS in 2017. My research interests include machine learning system optimizations and multimedia applications. I am currently working on automated machine learning systems, and machine learning for malware detection. I am an initiator and leading developer of [Apache SINGA](http://singa.apache.org/), and serve as the chairman since its graduation in November 2019. I am also a vice president of [Apache Software Foundation](https://www.apache.org/foundation/). I have served as an area chair for [ICDCS2020](https://icdcs2020.sg/programcommittee.html), and PC member for ICDE, VLDB, SIGMOD, DASFFA, ACM Multimedia.
 
 ---
 
 
-# Recent News
-
-* Mar, 2020. A paper on accurate and interpretable time-series analytics is accepted by SIGMOD 2020.
-* Jan, 2020. A survey paper on 5G is accepted by TKDE.
-* Jan, 2020. Our SIGMOD Record paper (2016) has been updated to the [third version](https://arxiv.org/abs/1906.08986) with many recent papers cited.
-* Dec, 2019. Two papers are accepted to [ICLR 2020](https://iclr.cc/Conferences/2020).
-* Nov, 2019. I attended [CNA938 TechTalk](https://www.channelnewsasia.com/news/cna938) for a live radio interview about Apache SINGA and the applications.
-* Nov, 2019. Three papers are accepted to [AAAI 2020](https://aaai.org/Conferences/AAAI-20/).
-* Oct, 2019. Apache SINGA has become a Top-Level project under Apache Software Foundation. Media reports: [Strait Times](https://www.straitstimes.com/tech/nus-teams-ai-system-first-from-southeast-asia-to-enter-ranks-of-worlds-top-open-source-software), [ASF Blog](https://blogs.apache.org/foundation/entry/the-apache-software-foundation-announces57) and [others](https://cms.comp.nus.edu.sg/news/news-media/3176-2019-asf-singa). 
-
-
 # Papers
+
+* [Detecting Implementation Bugs in Graph Convolutional Network based Node Classifiers.](https://ieeexplore.ieee.org/document/9251083)
+  Yiwei Wang, Wei Wang, Yujun Cai, Bryan Hooi, Beng Chin Ooi. ISSRE2020.
+
+* [Learning Effective Representations for Person-Job Fit by Feature Fusion.](https://dl.acm.org/doi/pdf/10.1145/3340531.3412717)
+  Junshu Jiang, Songyun Ye, Wei Wang, Jingran Xu, Xiaosheng Luo. CIKM 2020.
+
+* [Progressive Supervision for Node Classification.](https://bitbucket.org/ghentdatascience/ecmlpkdd20-papers/raw/master/RT/sub_221.pdf)
+  Yiwei Wang, Wei Wang, Yuxuan Liang, Yujun Cai, Bryan Hooi. ECML-PKDD 2020.
+
+* [NodeAug: Semi-Supervised Node Classification with Data Augmentation.](https://www.kdd.org/kdd2020/accepted-papers/view/nodeaug-semi-supervised-node-classification-with-data-augmentation)
+  Yiwei Wang, Wei Wang, Yuxuan Liang, Yujun Cai, Juncheng Liu, Bryan Hooi. SIGKDD 2020
 
 * [TRACER: A Framework for Facilitating Accurate and Interpretable Analytics for High Stakes Applications](https://arxiv.org/abs/2003.12012).
   Kaiping Zheng, Shaofeng Cai, Horng Ruey Chua, Wei Wang, Kee Yuan Ngiam, Beng Chin Ooi. SIGMOD 2020.
@@ -117,7 +118,7 @@ I am an Assistant Professor in the Department of Computer Science, National Univ
 
 # Projects
 * [SINGA-Auto](https://github.com/nusdbsystem/singa-auto). AutoML system with optimization on hyper-parameter tuning and model inference.
-* [Apache SINGA](http://singa.apache.org). Apache open-source project for developing a distributed deep learning system.
+* [Apache SINGA](http://singa.apache.org). Apache open-source project for developing a distributed deep learning system. Media report: [Strait Times](https://www.straitstimes.com/tech/nus-teams-ai-system-first-from-southeast-asia-to-enter-ranks-of-worlds-top-open-source-software), [ASF Blog](https://blogs.apache.org/foundation/entry/the-apache-software-foundation-announces57), [CNA938 TechTalk](https://www.channelnewsasia.com/news/cna938), and [others](https://cms.comp.nus.edu.sg/news/news-media/3176-2019-asf-singa).
 * [Foodlg](http://www.foodlg.com/). A health tracking and analysis App based on deep learning.
 
 ---
@@ -126,6 +127,10 @@ I am an Assistant Professor in the Department of Computer Science, National Univ
 * Vice President of Apache Software Foundation; Chair of Apache SINGA project.
 * Reviewer of TKDE, Neurocomputing, IEEE Transactions on Multimedia and ACM Transactions on Data Science.
 * Area Chair of ICDCS 2020
+* Program Committee member of SIGMOD 2021
+* Program Committee member of EDBT 2021
+* Program Committee member of DASFFA 2021
+* Program Committee member of ACM Multimedia 2020
 * Program Committee member of DASFFA 2020
 * Program Committee member of DASFFA 2019
 * Program Committee member of ACM Multimedia 2019
