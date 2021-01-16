@@ -12,8 +12,8 @@ timezone: Asia/Singapore
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://www.comp.nus.edu.sg/~wangwei
-root: /~wangwei/
+url: https://nudles.github.io
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 

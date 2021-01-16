@@ -2,24 +2,28 @@ title: "Wei WANG"
 layout: "page"
 comments: false
 ---
-<img src='images/avatar.jpg' class='avatar'/>
-Assistant Professor
-[Computer Science](http://www.comp.nus.edu.sg/about/depts/cs)
-[School of Computing](http://www.comp.nus.edu.sg)
-[National University of Singapore](http://www.nus.edu.sg)
+
+<img src='images/avatar.jpg' class='avatar'   style="vertical-align:middle;margin:5px 30px"/>
+
+
+I was an assistant professor at NUS School of Computing from 2017 to 2020. I got my B.S. from Renmin University of China in 2011 and PhD from NUS in 2017. My research interests include machine learning system optimizations and multimedia applications. I am currently working on automated machine learning systems, and machine learning for malware detection. I am an initiator and leading developer of [Apache SINGA](http://singa.apache.org/), and serve as the chairman since its graduation in November 2019. I am also a vice president of [Apache Software Foundation](https://www.apache.org/foundation/). I have served as an area chair for [ICDCS2020](https://icdcs2020.sg/programcommittee.html), and PC member for ICDE, VLDB, SIGMOD, DASFFA, ACM Multimedia.
 
 Email: wangwei At comp.nus.edu.sg
-Tel: (65) 6601 3785
-Office: COM2 Building, \#04-09, 15 Computing Drive, Singapore 117418
-
----
-
-I am an Assistant Professor in the Department of Computer Science, National University of Singapore (NUS). I got my B.S. from Renmin University of China in 2011 and PhD from NUS in 2017. My research interests include machine learning system optimizations and multimedia applications. I am currently working on automated machine learning systems, and machine learning for malware detection. I am an initiator and leading developer of [Apache SINGA](http://singa.apache.org/), and serve as the chairman since its graduation in November 2019. I am also a vice president of [Apache Software Foundation](https://www.apache.org/foundation/). I have served as an area chair for [ICDCS2020](https://icdcs2020.sg/programcommittee.html), and PC member for ICDE, VLDB, SIGMOD, DASFFA, ACM Multimedia.
 
 ---
 
 
-# Papers
+
+# [Papers](https://scholar.google.com/citations?user=46Dd4v4AAAAJ&hl=en)
+
+* [Mixup for Node and Graph Classification]()
+  Yiwei Wang, Wei Wang, Yuxuan Liang, Yujun Cai and Bryan Hooi. WWW 2021.
+
+* [CurGraph: Curriculum Learning for Graph Classification]()
+  Yiwei Wang, Wei Wang, Yuxuan Liang, Yujun Cai and Bryan Hooi. WWW 2021.
+
+* [BRECQ: Pushing the Limit of Post-Training Quantization by Block Reconstruction](https://openreview.net/pdf?id=POWv6hDd9XH)
+  Yuhang Li, Ruihao Gong, Xu Tan, Yang Yang, Peng Hu, Qi Zhang, Fengwei Yu, Wei Wang, Shi Gu. ICLR 2021.
 
 * [Detecting Implementation Bugs in Graph Convolutional Network based Node Classifiers.](https://ieeexplore.ieee.org/document/9251083)
   Yiwei Wang, Wei Wang, Yujun Cai, Bryan Hooi, Beng Chin Ooi. ISSRE2020.
