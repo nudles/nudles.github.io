@@ -6,9 +6,8 @@ comments: false
 <img src='images/avatar.jpg' class='avatar'   style="vertical-align:middle;margin:5px 30px"/>
 
 
-I was an assistant professor at NUS School of Computing from 2017 to 2020. I got my B.S. from Renmin University of China in 2011 and PhD from NUS in 2017. My research interests include machine learning system optimizations and multimedia applications. I am currently working on automated machine learning systems, and machine learning for malware detection. I am an initiator and leading developer of [Apache SINGA](http://singa.apache.org/), and serve as the chairman since its graduation in November 2019. I am also a vice president of [Apache Software Foundation](https://www.apache.org/foundation/). I have served as an area chair for [ICDCS2020](https://icdcs2020.sg/programcommittee.html), and PC member for ICDE, VLDB, SIGMOD, DASFFA, ACM Multimedia.
+I am a research engineer at TikTok working on [ByConity](https://github.com/ByConity/ByConity), a cloud native data warehouse engine. Before joining TikTok, I was an assistant professor at NUS School of Computing from 2017 to 2020. I got my B.S. from Renmin University of China in 2011 and PhD from NUS in 2017. My research projects included machine learning system optimizations and multimedia applications. I was the leading developer of [Apache SINGA](http://singa.apache.org/). I am also a vice president of [Apache Software Foundation](https://www.apache.org/foundation/). I have served as an associative editor for [VLDB2024](https://vldb.org/2024/?officers), an area chair for [ICDCS2020](https://icdcs2020.sg/programcommittee.html), and PC member for ICDE, VLDB, SIGMOD, DASFFA, ACM Multimedia. I am one of the recipients of SIGMOD System Award 2024.
 
-Email: wangwei At comp.nus.edu.sg
 
 ---
 
@@ -121,6 +120,7 @@ Email: wangwei At comp.nus.edu.sg
 ---
 
 # Projects
+* [ByConity](https://github.com/ByConity/ByConity). Cloud data warehouse engine based on ClickHouse.
 * [SINGA-Auto](https://github.com/nusdbsystem/singa-auto). AutoML system with optimization on hyper-parameter tuning and model inference.
 * [Apache SINGA](http://singa.apache.org). Apache open-source project for developing a distributed deep learning system. Media report: [Strait Times](https://www.straitstimes.com/tech/nus-teams-ai-system-first-from-southeast-asia-to-enter-ranks-of-worlds-top-open-source-software), [ASF Blog](https://blogs.apache.org/foundation/entry/the-apache-software-foundation-announces57), [CNA938 TechTalk](https://www.channelnewsasia.com/news/cna938), and [others](https://cms.comp.nus.edu.sg/news/news-media/3176-2019-asf-singa).
 * [Foodlg](http://www.foodlg.com/). A health tracking and analysis App based on deep learning.
@@ -130,6 +130,7 @@ Email: wangwei At comp.nus.edu.sg
 # Professional Activities
 * Vice President of Apache Software Foundation; Chair of Apache SINGA project.
 * Reviewer of TKDE, Neurocomputing, IEEE Transactions on Multimedia and ACM Transactions on Data Science.
+* Associative Editor of VLDB 2024
 * Area Chair of ICDCS 2020
 * Program Committee member of SIGMOD 2021
 * Program Committee member of EDBT 2021
